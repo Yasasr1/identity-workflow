@@ -43,6 +43,7 @@
 
     <modules>
         <module>components/org.wso2.carbon.identity.workflow.engine</module>
+        <module>components/org.wso2.carbon.identity.workflow.engine.external</module>
         <module>features/org.wso2.carbon.identity.workflow.engine.server.feature</module>
     </modules>
 
